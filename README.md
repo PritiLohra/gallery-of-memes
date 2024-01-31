@@ -1,5 +1,5 @@
 # My Meme Gallery
-
+![Screenshot 2024-01-31 230824](https://github.com/PritiLohra/gallery-of-memes/assets/134883908/4446aa26-8f58-44ce-a0b0-8aca81e419b3)
 Create a gallery of memes using Next.js that fetches posts from reddit.com/r/memes. The gallery allows users to scroll infinitely, fetching more entries as they scroll down. Clicking on a thumbnail in the gallery displays the image in its full resolution using the Photoswipe library.
 
 ## Getting Started
